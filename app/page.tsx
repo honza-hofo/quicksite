@@ -362,7 +362,7 @@ const projects = [
     name: "ContentHub",
     category: "Webová aplikace",
     screenshot: "/screenshots/contenthub.png",
-    url: "https://contenthub.onrender.com",
+    url: "https://contenthub-1x7h.onrender.com",
   },
 ];
 
