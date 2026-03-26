@@ -364,6 +364,12 @@ const projects = [
     screenshot: "/screenshots/contenthub.png",
     url: "https://contenthub-1x7h.onrender.com",
   },
+  {
+    name: "HOFO Socky",
+    category: "Webová aplikace",
+    screenshot: "/screenshots/socky.png",
+    url: "https://social-scheduler-e506.onrender.com",
+  },
 ];
 
 function Portfolio() {
