@@ -352,6 +352,18 @@ const projects = [
     screenshot: "/screenshots/podcastroom.png",
     url: "https://podcastroom.cz",
   },
+  {
+    name: "České srdce Evropy",
+    category: "Redakční web",
+    screenshot: "/screenshots/ceskosrdceevropy.png",
+    url: "https://ceskosrdceevropy-preview.onrender.com",
+  },
+  {
+    name: "ContentHub",
+    category: "Webová aplikace",
+    screenshot: "/screenshots/contenthub.png",
+    url: "https://contenthub.onrender.com",
+  },
 ];
 
 function Portfolio() {
