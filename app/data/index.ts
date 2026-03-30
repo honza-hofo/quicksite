@@ -11,17 +11,13 @@ import { webTypes } from './web-types';
 import { prices } from './prices';
 import { tools } from './tools';
 import { staticPages } from './static-pages';
-import { cities2 } from './cities2';
-import { cityIndustry } from './city-industry';
 
 const allPages: SEOPage[] = [
   ...services,
   ...aiPages,
   ...blog,
   ...cities,
-  ...cities2,
   ...industries,
-  ...cityIndustry,
   ...quickCheap,
   ...comparisons,
   ...problems,
